@@ -1,0 +1,81 @@
+/* #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+ text-align: start;
+} */
+/* *{
+  background-color: skyblue;
+} */
+.app{
+  margin: 5px;
+ padding: 50px;
+  display: flex;
+  gap: 8rem;
+  background-color: rgb(5, 148, 196);
+ 
+  
+  
+}
+.card-design{
+  display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 440px;
+  gap: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+  padding: 5px;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px 1px;
+ 
+  
+  
+}
+.card-desig-2{
+   display: flex;
+  flex-direction: column;
+  width: 340px;
+  height: 440px;
+  gap: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+   padding: 5px;
+   background-color: whitesmoke;
+   border-radius: 10px;
+   box-shadow: 3px 3px 3px 1px;
+
+}
+.card-desig-3{
+
+     display: flex;
+  flex-direction: column;
+  width: 330px;
+  height: 440px;
+  gap: 2rem;
+  border: 1px solid black;
+  border-radius: 5px;
+  justify-content: center;
+  text-align: center;
+   padding: 5px;
+   background-color: whitesmoke;
+   border-radius: 10px;
+   box-shadow: 3px 3px 3px 1px;
+}
+.opa-city{
+opacity: .5;
+
+}
+.btn{
+  width: 250px;
+  height: 25px;
+  border-radius: 2px;
+  border: none;
+  box-shadow: 3px 3px 3px 1px;
+  background-color: rgb(5, 148, 196);
+}
